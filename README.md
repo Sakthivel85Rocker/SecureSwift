@@ -23,6 +23,7 @@ pod 'SecureSwift'
 ## Author
 
 
+>>>>>>> 4993dd2a9d6190f3dc95135efd5b463a5f1487a7
 ## License
 
 SecureSwift is available under the MIT license. See the LICENSE file for more info.
