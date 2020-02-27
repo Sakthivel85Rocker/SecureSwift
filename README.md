@@ -22,7 +22,6 @@ pod 'SecureSwift'
 
 ## Author
 
-Subramanian, Sakthivel, sakthivel_subramanian@mcafee.cm
 
 ## License
 
