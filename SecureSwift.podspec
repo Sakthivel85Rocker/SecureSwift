@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Subramanian, Sakthivel/SecureSwift'
+  s.homepage         = 'https://github.com/Sakthivel85Rocker/SecureSwift'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Subramanian, Sakthivel' => 'ssakthivel85rocker@gmail.com' }
@@ -31,6 +31,8 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'SecureSwift/Classes/**/*'
+  
+  s.swift_versions = '4.0'
   
   # s.resource_bundles = {
   #   'SecureSwift' => ['SecureSwift/Assets/*.png']
