@@ -20,10 +20,6 @@ it, simply add the following line to your Podfile:
 pod 'SecureSwift'
 ```
 
-## Author
-
-Subramanian, Sakthivel, sakthivel_subramanian@mcafee.cm
-
 ## License
 
 SecureSwift is available under the MIT license. See the LICENSE file for more info.
