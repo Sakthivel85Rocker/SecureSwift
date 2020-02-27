@@ -7,12 +7,14 @@
 //
 
 import UIKit
-
+import SecureSwift
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        let secureSwift = SecureSwift();
+        secureSwift.testInstanceMethod();
     }
 
     override func didReceiveMemoryWarning() {

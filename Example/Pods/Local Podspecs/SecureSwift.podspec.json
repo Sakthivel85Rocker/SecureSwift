@@ -1,0 +1,22 @@
+{
+  "name": "SecureSwift",
+  "version": "0.1.0",
+  "summary": "A short description of SecureSwift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Subramanian, Sakthivel/SecureSwift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Subramanian, Sakthivel": "sakthivel_subramanian@mcafee.cm"
+  },
+  "source": {
+    "git": "https://github.com/Subramanian, Sakthivel/SecureSwift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SecureSwift/Classes/**/*"
+}
